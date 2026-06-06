@@ -1,0 +1,4 @@
+[submodule "m1ddc"]
+	path = m1ddc
+	url = https://github.com/stevenpetryk/m1ddc
+	branch = validate-ddc-replies
